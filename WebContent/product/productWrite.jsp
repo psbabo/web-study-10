@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="css/shopping.css" type="text/css">
-<script type="text/javascript" src="..script/product.js"></script>
+<script type="text/javascript" src="script/product.js"></script>
 <title>상품 관리</title>
 </head>
 <body>

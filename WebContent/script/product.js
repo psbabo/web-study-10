@@ -9,7 +9,7 @@ function productCheck(){
 		frm.price.focus();
 		return false;
 	}
-	if(isNaN(document.frm.name.value.length==0)){
+	if(isNaN(document.frm.price.value)){
 		alert("숫자를 입력해야 합니다");
 		frm.price.focus();
 		return false;
